@@ -1,4 +1,4 @@
-# week_3_4_lab
+# Week 3 + 4 Lecture and Lab Notebooks
 
 This repo contains multiple notebooks. They are as follows 
 
